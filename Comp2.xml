@@ -31,11 +31,6 @@
                 <field name="NUM">0</field>
               </block>
             </value>
-            <next>
-              <block type="multimedia_playwav" id="17">
-                <field name="WAV">_SndTest.w</field>
-              </block>
-            </next>
           </block>
         </statement>
         <next>
