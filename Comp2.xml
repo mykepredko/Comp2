@@ -32,16 +32,16 @@
               </block>
             </value>
             <next>
-              <block type="multimedia_playwav" id="24">
+              <block type="multimedia_playwav" id="9">
                 <field name="WAV">_SndTest.w</field>
               </block>
             </next>
           </block>
         </statement>
         <next>
-          <block type="robot_delay" id="9" inline="true">
+          <block type="robot_delay" id="10" inline="true">
             <value name="DELAY">
-              <block type="math_number" id="10">
+              <block type="math_number" id="11">
                 <field name="NUM">150</field>
               </block>
             </value>
